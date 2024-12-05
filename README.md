@@ -1,9 +1,48 @@
-# React + Vite
+# My React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple React application with routing and a responsive layout. It demonstrates basic React Router usage and CSS styling. The app features a homepage and a search results page with a navigation bar and footer.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# girmantech_frontend
+- **Home Page**: Displays the main content of the app.
+- **Search Results Page**: Displays search results based on user interaction or URL changes.
+- **Responsive Layout**: The app adjusts its layout according to the screen size.
+- **React Router**: The app uses `react-router-dom` to navigate between pages.
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/mrigendra-18/girmantech_frontend
+
+2. Navigate to the project directory:
+    cd react-app
+
+3. Install the dependencies:
+   npm install
+   
+4. Start the development server:
+   npm run dev
+
+Technologies Used
+React
+React Router (react-router-dom)
+CSS for styling
+Folder Structure
+src/components/: Contains all React components (HomePage, SearchResultsPage, etc.).
+src/index.css: Global styles for the app.
+src/App.jsx: Main app file containing routing logic.
+
+
+
+Contributing
+If you want to contribute to this project, feel free to fork the repository, make changes, and create a pull request. Make sure to follow the coding standards and write clear commit messages.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+
