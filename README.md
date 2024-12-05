@@ -1,4 +1,4 @@
-# My React App
+# girmantech_frontend
 
 This is a simple React application with routing and a responsive layout. It demonstrates basic React Router usage and CSS styling. The app features a homepage and a search results page with a navigation bar and footer.
 
@@ -19,13 +19,16 @@ To run this project locally, follow these steps:
    git clone https://github.com/mrigendra-18/girmantech_frontend
 
 2. Navigate to the project directory:
-    cd react-app
+     ```bash
+      cd react-app
 
 3. Install the dependencies:
-   npm install
+     ```bash
+     npm install
    
 4. Start the development server:
-   npm run dev
+    ```bash
+     npm run dev
 
 Technologies Used
 React
