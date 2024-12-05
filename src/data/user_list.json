@@ -1,0 +1,27 @@
+[
+    {
+      "first_name": "Amit",
+      "last_name": "Sharma",
+      "city": "Mumbai",
+      "contact_number": "9876543210"
+    },
+    {
+      "first_name": "Priya",
+      "last_name": "Chopra",
+      "city": "Pune",
+      "contact_number": "9112345678"
+    },
+    {
+      "first_name": "Rahul",
+      "last_name": "Verma",
+      "city": "Delhi",
+      "contact_number": "9898765432"
+    },
+    {
+      "first_name": "Sneha",
+      "last_name": "Patel",
+      "city": "Ahmedabad",
+      "contact_number": "9123456789"
+    }
+  ]
+  
