@@ -20,7 +20,7 @@ To run this project locally, follow these steps:
 
 2. Navigate to the project directory:
      ```bash
-      cd react-app
+      cd girmantech_frontend
 
 3. Install the dependencies:
      ```bash
