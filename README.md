@@ -1,6 +1,6 @@
 # girmantech_frontend
 
-This is a simple React application with routing and a responsive layout. It demonstrates basic React Router usage and CSS styling. The app features a homepage and a search results page with a navigation bar and footer.
+This is a simple React application with routing and a responsive layout. It demonstrates basic React Router usage and CSS styling. The app features a homepage and a search results page with a navigation bar.
 
 ## Features
 
